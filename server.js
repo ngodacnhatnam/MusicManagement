@@ -13,7 +13,7 @@ const dataRouter = require('./routes/data');
 const app = express();
 
 //connect to mongodb
-mongoose.connect('mongodb+srv://minhnngbh18582:minh0964580237@cluster0.l9tp6.mongodb.net/test', {
+mongoose.connect('mongodb+srv://namxmi:Bongthoi12@cluster0.dokml.mongodb.net/test', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
