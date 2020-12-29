@@ -27,7 +27,7 @@ const dataSchema = new mongoose.Schema({
     },
     img: {
         type: String,
-        default: "bien.png"
+        
     },
     slug: {
         type: String,
